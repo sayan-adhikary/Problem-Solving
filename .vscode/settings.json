@@ -1,3 +1,11 @@
 {
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "1796. Second Largest Digit in a String",
+        "167. Two Sum II - Input Array Is Sorted",
+        "15. 3Sum",
+        "11. Container With Most Water",
+        "1. Two Sum",
+        "27. Remove Element"
+    ]
 }
